@@ -1,0 +1,5 @@
+print("Welcome to my App\n My name is Adwait Anoop Nair")
+print("I am",13,"years old")
+print("I am in",8,"th Grade")
+print("my hobbys are\n Playing Football and * Swimming")
+print("*The End*")
